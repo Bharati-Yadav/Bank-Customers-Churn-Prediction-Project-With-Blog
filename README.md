@@ -13,8 +13,11 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For the business questions analysis, I have used the Bank customers churn dataset:
 
 Q1.Find out how many customers are in the churn category?
+
 Q2.Which customers have higher churn rate?
+
 Q3.Is there any noticeable difference in customer net worth category when it comes to churn.
+
 Q4.Which customers will tend to have higher balance?
 
 ## File Descriptions <a name="files"></a>
