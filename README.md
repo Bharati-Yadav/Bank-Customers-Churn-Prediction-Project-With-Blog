@@ -21,7 +21,7 @@ Q3.Is there any noticeable difference in customer net worth category when it com
 Q4.Which customers will tend to have higher balance?
 
 ## File Descriptions <a name="files"></a>
-The notebook available here showcases work related to the above questions.  
+The notebook available [here](https://medium.com/@bharatiyadav818580/business-analysis-on-bank-customers-churn-927937d39e41?source=friends_link&sk=6f2d0646988f5849e5defc6637acda0e) showcases work related to the above questions.  
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@bharatiyadav818580/business-analysis-on-bank-customers-churn-927937d39e41?source=friends_link&sk=6f2d0646988f5849e5defc6637acda0e).
